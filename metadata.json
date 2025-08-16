@@ -1,0 +1,5 @@
+{
+  "name": "LAN-POS: Offline-First Point of Sale",
+  "description": "An offline-first Point of Sale (POS) web app that runs entirely on a local area network (LAN) with no internet dependency, featuring peer-to-peer data synchronization.",
+  "requestFramePermissions": []
+}
